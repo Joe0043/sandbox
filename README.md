@@ -1,1 +1,1 @@
-# A sandbox for playing Java (test center)
+# A private sandbox for playing Java (test center)
